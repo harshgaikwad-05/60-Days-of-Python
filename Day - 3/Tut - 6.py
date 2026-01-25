@@ -10,7 +10,6 @@ c = 4.33               # Float
 d = True               # Boolean
 e = None               # NoneType
 
-
 # -----------------------------------
 # Data Types in Python
 # -----------------------------------
@@ -21,12 +20,10 @@ name = "John"          # String data type
 age = 24               # Integer data type
 salary = 500.00        # Float data type
 
-
 # 2. Boolean Data Type: True or False
 
 school = False
 college = True
-
 
 # 3. Sequence Data Types: List, Tuple
 
@@ -53,7 +50,6 @@ print(fruits_basket)
 
 tuple1 = (("Parrot", "Sparrow"), ("Tiger", "Lion"))
 print(tuple1)
-
 
 # 4. Mapped Data Type: Dictionary
 
