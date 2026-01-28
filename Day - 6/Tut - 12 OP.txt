@@ -1,0 +1,39 @@
+Original string:
+'  Hello World  '
+----------------------------------------
+1. upper()        :   HELLO WORLD  
+2. lower()        :   hello world  
+3. title()        :   Hello World  
+4. capitalize()   :   hello world  
+5. swapcase()     :   hELLO wORLD  
+----------------------------------------
+6. strip()        : Hello World
+7. lstrip()       : Hello World  
+8. rstrip()       :   Hello World
+----------------------------------------
+9. replace()      :   Hello Python  
+10. split()       : ['Hello', 'World']
+11. join()        : Hello-World
+----------------------------------------
+12. find()        : 8
+13. index()       : 8
+14. count()       : 3
+----------------------------------------
+15. startswith()  : True
+16. endswith()    : True
+----------------------------------------
+17. isupper()     : False
+18. islower()     : False
+19. isalpha()     : True
+20. isdigit()     : True
+21. isalnum()     : True
+22. isspace()     : True
+----------------------------------------
+23. center()      : -------Hello--------
+24. ljust()       : Hello.....
+25. rjust()       : .....Hello
+----------------------------------------
+26. format()      : My name is Python
+27. zfill()       : 00042
+----------------------------------------
+ALL STRING METHODS:
